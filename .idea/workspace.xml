@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91f0866a-3fb5-40b6-a224-adbf9d91e227" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearche/BinarySearche.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearche/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BubleSort/BubleSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BubleSort/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fibonachi/Fibonachi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fibonachi/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection04_ctr_dan/Balance_tree/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection04_ctr_dan/Obhod_v_shirinu/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection04_ctr_dan/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3_Str_dan/Lection3_Str_dan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3_Str_dan/Odnosvyaz_spisok/Odnosvyaz_spisok.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3_Str_dan/Odnosvyaz_spisok/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3_Str_dan/STEK/STEK.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3_Str_dan/STEK/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3_Str_dan/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P_ex01_02/P_ex01_02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P_ex01_02/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar03/BinarySearchTree/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar03/Seminar03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar03/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Str_dan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directSort/directSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directSort/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/find/find.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/find/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insertSort/insertSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insertSort/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar02/seminar02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar02/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="91f0866a-3fb5-40b6-a224-adbf9d91e227" name="Changes" comment="add files from lections and seminars" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,11 +28,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "corretto-11"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Seminar03" />
@@ -84,9 +52,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="insertSort" />
+      <module name="Sem02_pyramidal_sort" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +92,18 @@
       <option name="presentableId" value="Default" />
       <updated>1681459288279</updated>
     </task>
+    <task id="LOCAL-00001" summary="add files from lections and seminars">
+      <created>1682325251414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682325251414</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add files from lections and seminars" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files from lections and seminars" />
   </component>
 </project>
