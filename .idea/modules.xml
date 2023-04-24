@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/directSort/directSort.iml" filepath="$PROJECT_DIR$/directSort/directSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/find/find.iml" filepath="$PROJECT_DIR$/find/find.iml" />
       <module fileurl="file://$PROJECT_DIR$/insertSort/insertSort.iml" filepath="$PROJECT_DIR$/insertSort/insertSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyramidal_sortt/pyramidal_sortt.iml" filepath="$PROJECT_DIR$/pyramidal_sortt/pyramidal_sortt.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar02/seminar02.iml" filepath="$PROJECT_DIR$/seminar02/seminar02.iml" />
     </modules>
   </component>
