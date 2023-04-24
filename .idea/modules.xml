@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lection04_ctr_dan/Balance_tree/Balance_tree.iml" filepath="$PROJECT_DIR$/Lection04_ctr_dan/Balance_tree/Balance_tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar03/BinarySearchTree/BinarySearchTree.iml" filepath="$PROJECT_DIR$/Seminar03/BinarySearchTree/BinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearche/BinarySearche.iml" filepath="$PROJECT_DIR$/BinarySearche/BinarySearche.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubleSort/BubleSort.iml" filepath="$PROJECT_DIR$/BubleSort/BubleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonachi/Fibonachi.iml" filepath="$PROJECT_DIR$/Fibonachi/Fibonachi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lection04_ctr_dan/Lection04_ctr_dan.iml" filepath="$PROJECT_DIR$/Lection04_ctr_dan/Lection04_ctr_dan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lection3_Str_dan/Lection3_Str_dan.iml" filepath="$PROJECT_DIR$/Lection3_Str_dan/Lection3_Str_dan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lection04_ctr_dan/Obhod_v_shirinu/Obhod_v_shirinu.iml" filepath="$PROJECT_DIR$/Lection04_ctr_dan/Obhod_v_shirinu/Obhod_v_shirinu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lection3_Str_dan/Odnosvyaz_spisok/Odnosvyaz_spisok.iml" filepath="$PROJECT_DIR$/Lection3_Str_dan/Odnosvyaz_spisok/Odnosvyaz_spisok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_ex01_02/P_ex01_02.iml" filepath="$PROJECT_DIR$/P_ex01_02/P_ex01_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lection3_Str_dan/STEK/STEK.iml" filepath="$PROJECT_DIR$/Lection3_Str_dan/STEK/STEK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar03/Seminar03.iml" filepath="$PROJECT_DIR$/Seminar03/Seminar03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Str_dan.iml" filepath="$PROJECT_DIR$/Str_dan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/directSort/directSort.iml" filepath="$PROJECT_DIR$/directSort/directSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find/find.iml" filepath="$PROJECT_DIR$/find/find.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertSort/insertSort.iml" filepath="$PROJECT_DIR$/insertSort/insertSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar02/seminar02.iml" filepath="$PROJECT_DIR$/seminar02/seminar02.iml" />
+    </modules>
+  </component>
+</project>

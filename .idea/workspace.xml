@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91f0866a-3fb5-40b6-a224-adbf9d91e227" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearche/BinarySearche.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearche/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BubleSort/BubleSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BubleSort/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibonachi/Fibonachi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibonachi/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection04_ctr_dan/Balance_tree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection04_ctr_dan/Obhod_v_shirinu/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection04_ctr_dan/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection3_Str_dan/Lection3_Str_dan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection3_Str_dan/Odnosvyaz_spisok/Odnosvyaz_spisok.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection3_Str_dan/Odnosvyaz_spisok/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection3_Str_dan/STEK/STEK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection3_Str_dan/STEK/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection3_Str_dan/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P_ex01_02/P_ex01_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P_ex01_02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar03/BinarySearchTree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar03/Seminar03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar03/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Str_dan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directSort/directSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directSort/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find/find.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insertSort/insertSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insertSort/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar02/seminar02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OPPXPMpND7zWQTQaqsZwvh5l6e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-11"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Seminar03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Sort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="insertSort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BinarySearche" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="seminar02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91f0866a-3fb5-40b6-a224-adbf9d91e227" name="Changes" comment="" />
+      <created>1681459288279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681459288279</updated>
+    </task>
+    <servers />
+  </component>
+</project>
