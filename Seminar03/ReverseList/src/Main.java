@@ -1,25 +1,15 @@
-import com.sun.source.tree.Tree;
-
 public class Main {
     public static void main(String[] args) {
-//        Node first = new Node(100);
-//        first.next = new Node(200);
-//        first.next.next = new Node(300);
-//        first.next.next.next = new Node(400);
-
         MyList li = new MyList();
+        li.append(1);
+        li.append(2);
+        li.append(3);
+        li.append(4);
+        li.append(5);
         li.print();
-        li.append(10);
-        li.append(20);
-        li.append(30);
+        System.out.println("Revert: ");
+        li.revert();
         li.print();
-
-//        print(first);
-//        Node current = first;
-//        while (current != null) {
-//            System.out.println(current.value);
-//            current = current.next;
-//        }
     }
 }
 class Node{
@@ -30,15 +20,12 @@ class Node{
         this.next = null;
     }
 }
-
 class MyList{
     Node head;
     public void append(int val){
-//            Node n = new Node(val);
         if(this.head == null){
             this.head = new Node(val);
         }else{
-//            Node n = new Node(val);
             Node current = this.head;
             while (current != null){
                 if (current.next == null){
@@ -50,8 +37,6 @@ class MyList{
             }
         }
     }
-
-
     public void print(){
         this.print(this.head);
     }
@@ -61,26 +46,19 @@ class MyList{
             print(current.next);
         }
     }
-}
-class TreeNode{
-    int value;
-    public TreeNode(int value){
-        this.value = value;
-    }
-    TreeNode left;
-    TreeNode right;
-}
-class BinarySearchTree{
-    TreeNode root;
-    public void append(int val){
-        if(root == null){
-            root = new TreeNode(val);
-        }else{
-            if(val > root.value){
-                // строим правое поддерево
-            }else{
-                // строим левое поддерево
-            }
+    public void revert(){
+        if(head != null && head.next != null){
+            Node temp = head;
+            revert(head.next, head);
+            temp.next = null;
         }
+    }
+    private void revert(Node currentNode, Node previousNode){
+        if(currentNode.next == null){
+            head = currentNode;
+        }else{
+            revert(currentNode.next, currentNode);
+        }
+        currentNode.next = previousNode;
     }
 }

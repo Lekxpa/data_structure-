@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91f0866a-3fb5-40b6-a224-adbf9d91e227" name="Changes" comment="change file">
-      <change afterPath="$PROJECT_DIR$/pyramidal_sortt/src/Main.java" afterDir="false" />
+    <list default="true" id="91f0866a-3fb5-40b6-a224-adbf9d91e227" name="Changes" comment="change files">
+      <change afterPath="$PROJECT_DIR$/Seminar03/ReverseList/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar03/BinarySearchTree/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar03/BinarySearchTree/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +42,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Seminar03" />
@@ -68,20 +71,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="BinarySearche" />
+      <module name="ReverseList" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -108,12 +111,20 @@
       <option name="project" value="LOCAL" />
       <updated>1682335465960</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change files">
+      <created>1682335689883</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682335689883</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add files from lections and seminars" />
     <MESSAGE value="change file" />
-    <option name="LAST_COMMIT_MESSAGE" value="change file" />
+    <MESSAGE value="change files" />
+    <option name="LAST_COMMIT_MESSAGE" value="change files" />
   </component>
 </project>
