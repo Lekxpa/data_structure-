@@ -4,16 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91f0866a-3fb5-40b6-a224-adbf9d91e227" name="Changes" comment="change files">
-      <change afterPath="$PROJECT_DIR$/Seminar03/ReverseList/src/Main.java" afterDir="false" />
+    <list default="true" id="91f0866a-3fb5-40b6-a224-adbf9d91e227" name="Changes" comment="change file Reverse">
+      <change afterPath="$PROJECT_DIR$/Seminar03/HW03/HW03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar03/HW03/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar03/HW03/src/RedBlackTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar03/HW0301/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar03/ReverseList/ReverseList.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar03/BinarySearchTree/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar03/BinarySearchTree/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +43,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "corretto-11"
   },
   "keyToStringList": {
@@ -42,49 +53,56 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\Exceptions" />
+      <recent name="C:\Users\Asus\IdeaProjects" />
+      <recent name="C:\Users\Asus\IdeaProjects\Sem02_pyramidal_sort" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Seminar03" />
+      <module name="BinarySearchTree" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sort" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sem02_pyramidal_sort" />
+      <module name="HW03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="pyramidal_sortt" />
+      <module name="Sem01_task02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Sem01_task03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ReverseList" />
+      <module name="Sem01_task02_v02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -118,13 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682335689883</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change file Reverse">
+      <created>1682411569199</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682411569199</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add files from lections and seminars" />
     <MESSAGE value="change file" />
     <MESSAGE value="change files" />
-    <option name="LAST_COMMIT_MESSAGE" value="change files" />
+    <MESSAGE value="change file Reverse" />
+    <option name="LAST_COMMIT_MESSAGE" value="change file Reverse" />
   </component>
 </project>
