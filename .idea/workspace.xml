@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91f0866a-3fb5-40b6-a224-adbf9d91e227" name="Changes" comment="change file Reverse">
-      <change afterPath="$PROJECT_DIR$/Seminar03/HW03/HW03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar03/HW03/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar03/HW03/src/RedBlackTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar03/HW0301/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar03/ReverseList/ReverseList.iml" afterDir="false" />
+    <list default="true" id="91f0866a-3fb5-40b6-a224-adbf9d91e227" name="Changes" comment="add HW04">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -44,7 +39,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "corretto-11"
+    "jdk.selected.JAVA_MODULE": "corretto-11",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/Lection6/src"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -60,49 +56,49 @@
       <recent name="C:\Users\Asus\IdeaProjects\Sem02_pyramidal_sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="BinarySearchTree" />
+      <module name="HW01_04" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HW03" />
+      <module name="Seminar01_v02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sem01_task02" />
+      <module name="Exceptions_lection01_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sem01_task03" />
+      <module name="HW01_03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sem01_task02_v02" />
+      <module name="HW01_01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682411569199</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add HW04">
+      <created>1682976591440</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682976591440</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -151,6 +154,7 @@
     <MESSAGE value="change file" />
     <MESSAGE value="change files" />
     <MESSAGE value="change file Reverse" />
-    <option name="LAST_COMMIT_MESSAGE" value="change file Reverse" />
+    <MESSAGE value="add HW04" />
+    <option name="LAST_COMMIT_MESSAGE" value="add HW04" />
   </component>
 </project>
